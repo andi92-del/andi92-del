@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @andi92-del
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+andi92-del/andi92-del is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Im Indonesian..i was born in a small city..
+Im interested in playing mobile game online such as mobile legend, DOTA etc.
+i'm currently learning english language because i want to walk arround the wolrd
